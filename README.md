@@ -1,4 +1,3 @@
-# Coffee-Sales-Analysis-in-Power-BI-Dashboard
 # ☕ Coffee Sales Analysis - Power BI Dashboard
 
 ## 👩‍💼 Project by: Anushka Verma  
